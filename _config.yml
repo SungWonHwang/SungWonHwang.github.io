@@ -1,10 +1,10 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
 # Configurations
-title:            Jekyll Chapterbook
-longtitle:        Jekyll Chapterbook
-author:           Jason Grimes
-email:            jason@grimesit.com
+title:            Sungwon's Portfolio
+longtitle:        Welcome to my portfolio Site !
+name:           Hwang Sung Won
+email:            spring0331@gmail.com
 description: >
   A Jekyll theme based on GitBook with support for chapters and parts.
 
